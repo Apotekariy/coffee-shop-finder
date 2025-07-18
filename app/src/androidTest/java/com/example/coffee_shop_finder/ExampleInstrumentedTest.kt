@@ -1,4 +1,4 @@
-package com.example.weatherapi_forecast
+package com.example.coffee_shop_finder
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

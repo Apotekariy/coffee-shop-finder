@@ -1,4 +1,4 @@
-package com.example.weatherapi_forecast.ui.theme
+package com.example.coffee_shop_finder.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

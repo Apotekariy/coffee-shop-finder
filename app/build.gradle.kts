@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.weatherapi_forecast"
+    namespace = "com.example.coffee_shop_finder"
     compileSdk = 36
 
     defaultConfig {
